@@ -37,9 +37,38 @@ body > div {
 }
 
 .home{
-  background-color: #9c76b8;
+  background-color: #e1ebfa;
 }
 
 h1{
   color:white;
+}
+
+.orange{
+  background-color: #f7c37e;
+}
+
+.sage{
+  background-color: #c8decb;
+}
+.purple {
+  background-color: #9c76b8;
+}
+
+.footer {
+  padding-top: 35px;
+  margin: 0 auto;
+}
+
+a {
+  padding-right: 8px;
+  padding-left: 8px;
+  font-size: 25px;
+  font-family: Courier New, monospace;
+}
+
+#main-section {
+  padding: 30px;
+  border-style: double;
+  border-width: thick;
 }

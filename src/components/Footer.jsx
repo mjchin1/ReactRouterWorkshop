@@ -1,7 +1,7 @@
 import {Link} from 'react-router-dom'
-export default function NavBar() {
+export default function Footer() {
     return (
-        <div id="navbar">
+        <div id="footer">
             <Link to='/blue'>Blue</Link>
             <Link to= '/red'>Red</Link>
             <Link to= '/orange'>Orange</Link>
