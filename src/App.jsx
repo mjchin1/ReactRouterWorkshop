@@ -17,6 +17,9 @@ function App() {
   return (
     <>
     <div id="container">
+      <div>
+        <h1 className="pageHeader">COLORS</h1>
+      </div>
 
       <div id="navbar">
         <NavBar/>
